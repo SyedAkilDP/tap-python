@@ -1,0 +1,5 @@
+{
+  "order_status": "status",
+  "order_purchase_timestamp": "purchase_timestamp",
+  "order_estimated_delivery_date": "estimated_delivery_date"
+}
