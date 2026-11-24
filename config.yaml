@@ -1,0 +1,25 @@
+
+paths:
+  data_dir: data
+  log_dir: logs
+  output_dir: output
+
+thresholds:
+  max_rejection_rate: 0.20
+  min_price: 0
+
+column_mappings:
+  price: item_price
+  freight_value: shipping_fee
+  order_purchase_timestamp: purchased_at
+
+files:
+  - olist_customers_dataset.csv
+  - olist_geolocation_dataset.csv
+  - olist_orders_dataset.csv
+  - olist_order_items_dataset.csv
+  - olist_order_payments_dataset.csv
+  - olist_order_reviews_dataset.csv
+  - olist_products_dataset.csv
+  - olist_sellers_dataset.csv
+  - product_category_name_translation.csv
