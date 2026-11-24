@@ -1,0 +1,12 @@
+{
+    "run_timestamp": "20261124_154451_956076",
+    "processed_files": 0,
+    "skipped_files": 9,
+    "failed_files": [],
+    "total_records": 0,
+    "valid_records": 0,
+    "rejected_records": 0,
+    "duration_seconds": 0.0108,
+    "status": "SUCCESS",
+    "log_file": "pipeline_20261124_154451_956076.log"
+}

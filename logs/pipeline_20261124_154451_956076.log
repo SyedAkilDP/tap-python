@@ -1,0 +1,11 @@
+2026-11-24 15:44:51,957 | INFO | Pipeline started
+2026-11-24 15:44:51,958 | INFO | SKIPPED: olist_customers_dataset.csv
+2026-11-24 15:44:51,958 | INFO | SKIPPED: olist_geolocation_dataset.csv
+2026-11-24 15:44:51,959 | INFO | SKIPPED: olist_orders_dataset.csv
+2026-11-24 15:44:51,960 | INFO | SKIPPED: olist_order_items_dataset.csv
+2026-11-24 15:44:51,960 | INFO | SKIPPED: olist_order_payments_dataset.csv
+2026-11-24 15:44:51,961 | INFO | SKIPPED: olist_order_reviews_dataset.csv
+2026-11-24 15:44:51,962 | INFO | SKIPPED: olist_products_dataset.csv
+2026-11-24 15:44:51,962 | INFO | SKIPPED: olist_sellers_dataset.csv
+2026-11-24 15:44:51,963 | INFO | SKIPPED: product_category_name_translation.csv
+2026-11-24 15:44:51,964 | INFO | Run summary: {'run_timestamp': '20261124_154451_956076', 'processed_files': 0, 'skipped_files': 9, 'failed_files': [], 'total_records': 0, 'valid_records': 0, 'rejected_records': 0, 'duration_seconds': 0.0108, 'status': 'SUCCESS', 'log_file': 'pipeline_20261124_154451_956076.log'}
